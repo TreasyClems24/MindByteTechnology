@@ -1,0 +1,3 @@
+Below is the link to the figma design...
+
+https://www.figma.com/design/20jtt1HlioguiTCnfBeSvr/MindByte-Technologies-(Copy)
