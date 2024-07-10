@@ -92,6 +92,10 @@
     padding: 10px, 10px;
   }
 
+  .nav-list li a {
+    font-size: 1rem;
+  }
+
   .nav-list {
     display: none;
   }
